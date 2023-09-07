@@ -94,10 +94,4 @@ def start(status:threading.Event,shutdown_wait:threading.Event,bot:discord.Clien
 
     asyncio.run(bot.start(os.getenv("TOKEN"),reconnect=True))
 
-    # asyncio.run(bot.start('NTA1OTY1Njc1MTg2MjI1MTYy.GRZXdw.9h_Rk6daJ_ViHnMUuunXAHbQ3AkC4e4p0TFDW8',reconnect=False))
 
-
-
-
-    # else:
-        # asyncio.run(bot.connect('NTA1OTgzNTY2Nzc4NDY2MzA0.GUraBD.L0LzuW8VD5MZS-a5R40GRrP8I-1InYrw4CF2ig',reconnect=False))
