@@ -1,0 +1,1628 @@
+{
+    "animes": [
+        {
+            "title": "\u546a\u8853\u5efb\u6226",
+            "title_eng": "Jujutsu Kaisen 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 6,
+                "weekday": "Thursdays",
+                "time": "23:56"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1600/134703.jpg",
+            "studios": [
+                "MAPPA"
+            ]
+        },
+        {
+            "title": "\u7121\u8077\u8ee2\u751f II \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e",
+            "title_eng": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 10,
+                "weekday": "Mondays",
+                "time": "00:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1674/136728.jpg",
+            "studios": [
+                "Studio Bind"
+            ]
+        },
+        {
+            "title": "\u30db\u30ea\u30df\u30e4 -piece-",
+            "title_eng": "Horimiya: Piece",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": "Saturdays",
+                "time": "23:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1007/136277.jpg",
+            "studios": [
+                "CloverWorks"
+            ]
+        },
+        {
+            "title": "\u653f\u5b97\u304f\u3093\u306e\u30ea\u30d9\u30f3\u30b8R",
+            "title_eng": "Masamune-kun no Revenge R",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 3,
+                "weekday": "Mondays",
+                "time": "21:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1667/135587.jpg",
+            "studios": [
+                "SILVER LINK."
+            ]
+        },
+        {
+            "title": "BLEACH \u5343\u5e74\u8840\u6226\u7bc7-\u8a23\u5225\u8b5a-",
+            "title_eng": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "23:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1018/136667.jpg",
+            "studios": [
+                "Pierrot"
+            ]
+        },
+        {
+            "title": "\u30be\u30f3100\uff5e\u30be\u30f3\u30d3\u306b\u306a\u308b\u307e\u3067\u306b\u3057\u305f\u3044100\u306e\u3053\u3068\uff5e",
+            "title_eng": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": "Sundays",
+                "time": "17:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1384/136408.jpg",
+            "studios": [
+                "BUG FILMS"
+            ]
+        },
+        {
+            "title": "\u597d\u304d\u306a\u5b50\u304c\u3081\u304c\u306d\u3092\u5fd8\u308c\u305f",
+            "title_eng": "Suki na Ko ga Megane wo Wasureta",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 4,
+                "weekday": "Tuesdays",
+                "time": "23:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1582/136325.jpg",
+            "studios": [
+                "GoHands"
+            ]
+        },
+        {
+            "title": "\u9670\u306e\u5b9f\u529b\u8005\u306b\u306a\u308a\u305f\u304f\u3066\uff01 2nd Season",
+            "title_eng": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1892/133677.jpg",
+            "studios": [
+                "Nexus"
+            ]
+        },
+        {
+            "title": "\u5f7c\u5973\u3001\u304a\u501f\u308a\u3057\u307e\u3059",
+            "title_eng": "Kanojo, Okarishimasu 3rd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "01:23"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1696/136634.jpg",
+            "studios": [
+                "TMS Entertainment"
+            ]
+        },
+        {
+            "title": "\u308f\u305f\u3057\u306e\u5e78\u305b\u306a\u7d50\u5a5a",
+            "title_eng": "Watashi no Shiawase na Kekkon",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 5,
+                "weekday": "Wednesdays",
+                "time": "23:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1147/122444.jpg",
+            "studios": [
+                "Kinema Citrus"
+            ]
+        },
+        {
+            "title": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9",
+            "title_eng": "Bungou Stray Dogs 5th Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 12,
+                "weekday": "Wednesdays",
+                "time": "23:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1161/136691.jpg",
+            "studios": [
+                "Bones"
+            ]
+        },
+        {
+            "title": "\u306f\u305f\u3089\u304f\u9b54\u738b\u3055\u307e\uff01\uff01",
+            "title_eng": "Hataraku Maou-sama!! 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 13,
+                "weekday": "Thursdays",
+                "time": "23:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1392/136670.jpg",
+            "studios": [
+                "Studio 3Hz"
+            ]
+        },
+        {
+            "title": "\u30a2\u30ea\u30b9\u3068\u30c6\u30ec\u30b9\u306e\u307e\u307c\u308d\u3057\u5de5\u5834",
+            "title_eng": "Alice to Therese no Maboroshi Koujou",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 15,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1685/135984.jpg",
+            "studios": [
+                "MAPPA"
+            ]
+        },
+        {
+            "title": "\u4e03\u3064\u306e\u9b54\u5263\u304c\u652f\u914d\u3059\u308b",
+            "title_eng": "Nanatsu no Maken ga Shihai suru",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "00:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1396/136273.jpg",
+            "studios": [
+                "J.C.Staff"
+            ]
+        },
+        {
+            "title": "\u30e9\u30a4\u30a2\u30fc\u30fb\u30e9\u30a4\u30a2\u30fc",
+            "title_eng": "Liar Liar",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "22:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1571/134525.jpg",
+            "studios": [
+                "Geek Toys"
+            ]
+        },
+        {
+            "title": "\u308b\u308d\u3046\u306b\u5263\u5fc3 -\u660e\u6cbb\u5263\u5ba2\u6d6a\u6f2b\u8b5a-",
+            "title_eng": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": "Fridays",
+                "time": "00:55"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1599/136532.jpg",
+            "studios": [
+                "LIDENFILMS"
+            ]
+        },
+        {
+            "title": "\u7121\u8077\u8ee2\u751f\u2161 \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e \u7b2c0\u8a71\u300c\u5b88\u8b77\u8853\u5e2b\u30d5\u30a3\u30c3\u30c4\u300d",
+            "title_eng": "Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 3,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1627/136934.jpg",
+            "studios": [
+                "Studio Bind"
+            ]
+        },
+        {
+            "title": "\u5b9f\u306f\u4ffa\u3001\u6700\u5f37\u3067\u3057\u305f?",
+            "title_eng": "Jitsu wa Ore, Saikyou deshita?",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": "Sundays",
+                "time": "02:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1496/136558.jpg",
+            "studios": [
+                "Staple Entertainment"
+            ]
+        },
+        {
+            "title": "\u65f6\u5149\u4ee3\u7406\u4eba \u7b2c\u4e8c\u5b63",
+            "title_eng": "Shiguang Dailiren II",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 14,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1553/136489.jpg",
+            "studios": [
+                "LAN Studio"
+            ]
+        },
+        {
+            "title": "\u5922\u898b\u308b\u7537\u5b50\u306f\u73fe\u5b9f\u4e3b\u7fa9\u8005",
+            "title_eng": "Yumemiru Danshi wa Genjitsushugisha",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 4,
+                "weekday": "Tuesdays",
+                "time": "02:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1239/134810.jpg",
+            "studios": [
+                "Studio Gokumi",
+                "AXsiZ"
+            ]
+        },
+        {
+            "title": "\u3046\u3061\u306e\u4f1a\u793e\u306e\u5c0f\u3055\u3044\u5148\u8f29\u306e\u8a71",
+            "title_eng": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": "Sundays",
+                "time": "01:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1984/136274.jpg",
+            "studios": [
+                "Project No.9"
+            ]
+        },
+        {
+            "title": "Fate/strange Fake -Whispers of Dawn-",
+            "title_eng": "Fate/strange Fake: Whispers of Dawn",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
+            "studios": [
+                "A-1 Pictures"
+            ]
+        },
+        {
+            "title": "\u846c\u9001\u306e\u30d5\u30ea\u30fc\u30ec\u30f3",
+            "title_eng": "Sousou no Frieren",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 29,
+                "weekday": "Fridays",
+                "time": "21:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1875/136959.jpg",
+            "studios": [
+                "Madhouse"
+            ]
+        },
+        {
+            "title": "\u6b7b\u795e\u574a\u3061\u3083\u3093\u3068\u9ed2\u30e1\u30a4\u30c9",
+            "title_eng": "Shinigami Bocchan to Kuro Maid 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 9,
+                "weekday": "Sundays",
+                "time": "22:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1078/136947.jpg",
+            "studios": [
+                "J.C.Staff"
+            ]
+        },
+        {
+            "title": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u306b\u751f\u307e\u308c\u5909\u308f\u3063\u305f\u4ffa\u306f\u8ff7\u5bae\u3092\u5f77\u5fa8\u3046",
+            "title_eng": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 5,
+                "weekday": "Wednesdays",
+                "time": "22:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1653/136097.jpg",
+            "studios": [
+                "Studio Gokumi",
+                "AXsiZ"
+            ]
+        },
+        {
+            "title": "\u4e94\u7b49\u5206\u306e\u82b1\u5ac1\u223d",
+            "title_eng": "5-toubun no Hanayome\u223d",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 14,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1567/135752.jpg",
+            "studios": [
+                "Shaft"
+            ]
+        },
+        {
+            "title": "\u30a2\u30f3\u30c7\u30c3\u30c9\u30ac\u30fc\u30eb\u30fb\u30de\u30fc\u30c0\u30fc\u30d5\u30a1\u30eb\u30b9",
+            "title_eng": "Undead Girl Murder Farce",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 6,
+                "weekday": "Thursdays",
+                "time": "00:55"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg",
+            "studios": [
+                "Lapin Track"
+            ]
+        },
+        {
+            "title": "\u30e9\u30a4\u30b6\u306e\u30a2\u30c8\u30ea\u30a8 ~\u5e38\u95c7\u306e\u5973\u738b\u3068\u79d8\u5bc6\u306e\u96a0\u308c\u5bb6~",
+            "title_eng": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": "Sundays",
+                "time": "00:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1079/136949.jpg",
+            "studios": [
+                "LIDENFILMS"
+            ]
+        },
+        {
+            "title": "\u82f1\u96c4\u6559\u5ba4",
+            "title_eng": "Eiyuu Kyoushitsu",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 9,
+                "weekday": "Sundays",
+                "time": "23:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1179/136000.jpg",
+            "studios": [
+                "Actas"
+            ]
+        },
+        {
+            "title": "\u30c0\u30fc\u30af\u30ae\u30e3\u30b6\u30ea\u30f3\u30b0",
+            "title_eng": "Dark Gathering",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 10,
+                "weekday": "Mondays",
+                "time": "01:05"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1748/136736.jpg",
+            "studios": [
+                "OLM"
+            ]
+        },
+        {
+            "title": "\u30ec\u30d9\u30eb1\u3060\u3051\u3069\u30e6\u30cb\u30fc\u30af\u30b9\u30ad\u30eb\u3067\u6700\u5f37\u3067\u3059",
+            "title_eng": "Level 1 dakedo Unique Skill de Saikyou desu",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "22:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1579/136295.jpg",
+            "studios": [
+                "Maho Film"
+            ]
+        },
+        {
+            "title": "\u60b2\u5287\u306e\u5143\u51f6\u3068\u306a\u308b\u6700\u5f37\u5916\u9053\u30e9\u30b9\u30dc\u30b9\u5973\u738b\u306f\u6c11\u306e\u70ba\u306b\u5c3d\u304f\u3057\u307e\u3059\u3002",
+            "title_eng": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": "Fridays",
+                "time": "00:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1722/135542.jpg",
+            "studios": [
+                "OLM Team Yoshioka"
+            ]
+        },
+        {
+            "title": "\u767d\u8056\u5973\u3068\u9ed2\u7267\u5e2b",
+            "title_eng": "Shiro Seijo to Kuro Bokushi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 13,
+                "weekday": "Thursdays",
+                "time": "00:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1329/135096.jpg",
+            "studios": [
+                "Doga Kobo"
+            ]
+        },
+        {
+            "title": "\u7bc4\u99ac\u5203\u7259 SON OF OGRE",
+            "title_eng": "Hanma Baki: Son of Ogre 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 26,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1800/135847.jpg",
+            "studios": [
+                "TMS Entertainment"
+            ]
+        },
+        {
+            "title": "\u304a\u304b\u3057\u306a\u8ee2\u751f",
+            "title_eng": "Okashi na Tensei",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 4,
+                "weekday": "Tuesdays",
+                "time": "01:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1251/136232.jpg",
+            "studios": [
+                "SynergySP"
+            ]
+        },
+        {
+            "title": "\u8056\u8005\u7121\u53cc",
+            "title_eng": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": "Fridays",
+                "time": "01:28"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1821/135926.jpg",
+            "studios": [
+                "Yokohama Animation Lab",
+                "Cloud Hearts"
+            ]
+        },
+        {
+            "title": "\u3066\u3093\u3077\u308b",
+            "title_eng": "Temple",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 9,
+                "weekday": "Sundays",
+                "time": "01:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1879/136896.jpg",
+            "studios": [
+                "Gekkou"
+            ]
+        },
+        {
+            "title": "\u30c7\u30ad\u308b\u732b\u306f\u4eca\u65e5\u3082\u6182\u9b31",
+            "title_eng": "Dekiru Neko wa Kyou mo Yuuutsu",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "02:23"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1074/136720.jpg",
+            "studios": [
+                "GoHands"
+            ]
+        },
+        {
+            "title": "\u30b7\u30e5\u30ac\u30fc\u30a2\u30c3\u30d7\u30eb\u30fb\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb",
+            "title_eng": "Sugar Apple Fairy Tale Part 2",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": "Fridays",
+                "time": "21:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1399/136114.jpg",
+            "studios": [
+                "J.C.Staff"
+            ]
+        },
+        {
+            "title": "\u30d8\u30eb\u30af",
+            "title_eng": "Helck",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 12,
+                "weekday": "Wednesdays",
+                "time": "01:29"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1879/133302.jpg",
+            "studios": [
+                "Satelight"
+            ]
+        },
+        {
+            "title": "\u5e7b\u65e5\u306e\u30e8\u30cf\u30cd -SUNSHINE in the MIRROR-",
+            "title_eng": "Genjitsu no Yohane: Sunshine in the Mirror",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": "Sundays",
+                "time": "22:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1208/133335.jpg",
+            "studios": [
+                "Sunrise"
+            ]
+        },
+        {
+            "title": "AI\u306e\u907a\u96fb\u5b50",
+            "title_eng": "AI no Idenshi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "01:53"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1706/136176.jpg",
+            "studios": [
+                "Madhouse"
+            ]
+        },
+        {
+            "title": "\u30c8\u30cb\u30ab\u30af\u30ab\u30ef\u30a4\u30a4 \u5973\u5b50\u9ad8\u7de8",
+            "title_eng": "Tonikaku Kawaii: Joshikou-hen",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 12,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1922/136453.jpg",
+            "studios": [
+                "Seven Arcs"
+            ]
+        },
+        {
+            "title": "Lv1\u9b54\u738b\u3068\u30ef\u30f3\u30eb\u30fc\u30e0\u52c7\u8005",
+            "title_eng": "Lv1 Maou to One Room Yuusha",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 3,
+                "weekday": "Mondays",
+                "time": "21:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1879/136721.jpg",
+            "studios": [
+                "SILVER LINK.",
+                "Blade"
+            ]
+        },
+        {
+            "title": "AYAKA \u2010\u3042\u3084\u304b\u2010",
+            "title_eng": "Ayaka",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": "Sundays",
+                "time": "01:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1406/136367.jpg",
+            "studios": [
+                "Studio Blanc."
+            ]
+        },
+        {
+            "title": "\u30c0\u30f3\u30b8\u30e7\u30f3\u98ef",
+            "title_eng": "Dungeon Meshi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1830/136116.jpg",
+            "studios": [
+                "Trigger"
+            ]
+        },
+        {
+            "title": "\u7d42\u672b\u306e\u30ef\u30eb\u30ad\u30e5\u30fc\u30ecII \u5f8c\u7de8",
+            "title_eng": "Shuumatsu no Walk\u00fcre II Part 2",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 12,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1958/136099.jpg",
+            "studios": [
+                "Yumeta Company",
+                "Graphinica"
+            ]
+        },
+        {
+            "title": "\u30b9\u30d1\u30a4\u6559\u5ba4",
+            "title_eng": "Spy Kyoushitsu 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 13,
+                "weekday": "Thursdays",
+                "time": "22:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1317/136666.jpg",
+            "studios": [
+                "feel."
+            ]
+        },
+        {
+            "title": "\u30e9\u30b0\u30ca\u30af\u30ea\u30e0\u30be\u30f3",
+            "title_eng": "Ragna Crimson",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 30,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1702/131318.jpg",
+            "studios": [
+                "SILVER LINK."
+            ]
+        },
+        {
+            "title": "\u3082\u306e\u306e\u304c\u305f\u308a \u7b2c\u4e8c\u7ae0",
+            "title_eng": "Mononogatari 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 4,
+                "weekday": "Tuesdays",
+                "time": "00:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1111/135927.jpg",
+            "studios": [
+                "Bandai Namco Pictures"
+            ]
+        },
+        {
+            "title": "\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9",
+            "title_eng": "Kengan Ashura Season 2",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1513/134619.jpg",
+            "studios": [
+                "Larx Entertainment"
+            ]
+        },
+        {
+            "title": "\u30ca\u30eb\u30c8\u65b0\u4f5c\u30a2\u30cb\u30e1",
+            "title_eng": "Naruto (Shinsaku Anime)",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 3,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1568/134069.jpg",
+            "studios": []
+        },
+        {
+            "title": "SYNDUALITY",
+            "title_eng": "Synduality: Noir",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 11,
+                "weekday": "Tuesdays",
+                "time": "00:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1464/134806.jpg",
+            "studios": [
+                "8bit"
+            ]
+        },
+        {
+            "title": "\u541b\u305f\u3061\u306f\u3069\u3046\u751f\u304d\u308b\u304b",
+            "title_eng": "Kimitachi wa Dou Ikiru ka",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 14,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1261/131805.jpg",
+            "studios": [
+                "Studio Ghibli"
+            ]
+        },
+        {
+            "title": "\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\u30b3\u30f3\u30c6\u30b9\u30c8\u7de8",
+            "title_eng": "Hibike! Euphonium: Ensemble Contest-hen",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 4,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1952/135162.jpg",
+            "studios": [
+                "Kyoto Animation"
+            ]
+        },
+        {
+            "title": "BASTARD!! -\u6697\u9ed2\u306e\u7834\u58ca\u795e- 2",
+            "title_eng": "Bastard!! Ankoku no Hakaishin Season 2 (ONA)",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 31,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1643/132555.jpg",
+            "studios": [
+                "LIDENFILMS"
+            ]
+        },
+        {
+            "title": "\u96fe\u5c71\u4e94\u884c\u00b7\u7280\u5ddd\u5e7b\u7d2b\u6797",
+            "title_eng": "Wu Shan Wu Xing (2020): Xichuan Huan Zi Lin",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 26,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1433/119529.jpg",
+            "studios": [
+                "Samsara Animation Studio"
+            ]
+        },
+        {
+            "title": "\u4e03\u3064\u306e\u5927\u7f6a \u6028\u55df\u306e\u30a8\u30b8\u30f3\u30d0\u30e9 \u5f8c\u7de8",
+            "title_eng": "Nanatsu no Taizai: Ensa no Edinburgh Part 2",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 8,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1134/131962.jpg",
+            "studios": [
+                "Marvy Jack",
+                "Alfred Imageworks"
+            ]
+        },
+        {
+            "title": "\u5927\u96ea\u6d77\u306e\u30ab\u30a4\u30ca \u307b\u3057\u306e\u3051\u3093\u3058\u3083",
+            "title_eng": "Ooyukiumi no Kaina: Hoshi no Kenja",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1182/136415.jpg",
+            "studios": [
+                "Polygon Pictures"
+            ]
+        },
+        {
+            "title": "SAND LAND",
+            "title_eng": "Sand Land",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 18,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1834/136339.jpg",
+            "studios": [
+                "Sunrise",
+                "Anima",
+                "Kamikaze Douga"
+            ]
+        },
+        {
+            "title": "\u30a2\u30ba\u30fc\u30eb\u30ec\u30fc\u30f3 Queen's Orders",
+            "title_eng": "Azur Lane: Queen's Orders",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 27,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1602/133747.jpg",
+            "studios": [
+                "Yostar Pictures"
+            ]
+        },
+        {
+            "title": "\u5287\u5834\u7248\u30b7\u30c6\u30a3\u30fc\u30cf\u30f3\u30bf\u30fc \u5929\u4f7f\u306e\u6d99 (\u30a8\u30f3\u30b8\u30a7\u30eb\u30c0\u30b9\u30c8)",
+            "title_eng": "City Hunter Movie: Tenshi no Namida",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 8,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1046/136433.jpg",
+            "studios": [
+                "Sunrise",
+                "The Answer Studio"
+            ]
+        },
+        {
+            "title": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\uff1a\u30c7\u30b9\u30a2\u30a4\u30e9\u30f3\u30c9",
+            "title_eng": "Biohazard: Death Island",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1348/133200.jpg",
+            "studios": [
+                "TMS Entertainment"
+            ]
+        },
+        {
+            "title": "\u3081\u7d44\u306e\u5927\u543e \u6551\u56fd\u306e\u30aa\u30ec\u30f3\u30b8",
+            "title_eng": "Megumi no Daigo: Kyuukoku no Orange",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 30,
+                "weekday": "Saturdays",
+                "time": "17:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1378/136793.jpg",
+            "studios": [
+                "Brain's Base"
+            ]
+        },
+        {
+            "title": "\u95c7\u829d\u5c45 \u5341\u4e00\u671f",
+            "title_eng": "Yami Shibai 11",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 10,
+                "weekday": "Mondays",
+                "time": "02:25"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1375/135625.jpg",
+            "studios": [
+                "ILCA"
+            ]
+        },
+        {
+            "title": "\u4e07\u5723\u88574",
+            "title_eng": "Wan Sheng Jie 4",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 5,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1933/131863.jpg",
+            "studios": [
+                "Fenz",
+                "HMCH"
+            ]
+        },
+        {
+            "title": "\u5883\u754c\u6226\u6a5f \u6975\u92fc\u30ce\u88c5\u9b3c",
+            "title_eng": "Kyoukai Senki: Kyokkou no Souki",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1679/135836.jpg",
+            "studios": [
+                "Sunrise Beyond"
+            ]
+        },
+        {
+            "title": "\u767e\u59d3\u8cb4\u65cf",
+            "title_eng": "Hyakushou Kizoku",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": "Fridays",
+                "time": "21:54"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1134/135615.jpg",
+            "studios": [
+                "Pie in the sky"
+            ]
+        },
+        {
+            "title": "\u65e0\u8111\u9b54\u5973",
+            "title_eng": "Wu Nao Monu",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 4,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1386/136705.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 will+Dress Season3",
+            "title_eng": "Cardfight!! Vanguard: will+Dress Season 3",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "08:00"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1739/136945.jpg",
+            "studios": [
+                "Kinema Citrus",
+                "GIFTanimation",
+                "Studio Jemi"
+            ]
+        },
+        {
+            "title": "\u6620\u753b\u30d7\u30ea\u30ad\u30e5\u30a2\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30baF",
+            "title_eng": "Precure All Stars Movie F",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 15,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1107/133954.jpg",
+            "studios": [
+                "Toei Animation"
+            ]
+        },
+        {
+            "title": "\u304a\u305d\u677e\u3055\u3093~\u9b42\u306e\u305f\u3053\u713c\u304d\u30d1\u30fc\u30c6\u30a3\u30fc\u3068\u4f1d\u8aac\u306e\u304a\u6cca\u308a\u4f1a~",
+            "title_eng": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 21,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1026/136351.jpg",
+            "studios": [
+                "Pierrot"
+            ]
+        },
+        {
+            "title": "\u30b7\u30e3\u30c9\u30a6\u30d0\u30fc\u30b9F \u30bb\u30d6\u30f3\u30b7\u30e3\u30c9\u30a6\u30ba\u7de8",
+            "title_eng": "Shadowverse Flame: Seven Shadows-hen",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "09:30"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1070/134743.jpg",
+            "studios": [
+                "Zexcs"
+            ]
+        },
+        {
+            "title": "\u30b9\u30b1\u30d9\u30a8\u30eb\u30d5\u63a2\u8a2a\u8a18",
+            "title_eng": "Sukebe Elf Tanbouki",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1575/134996.jpg",
+            "studios": [
+                "T-Rex"
+            ]
+        },
+        {
+            "title": "\u5fd8\u661f\u306e\u30f4\u30a1\u30ea\u30b7\u30a2",
+            "title_eng": "Wasure Hoshi no Volicia",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 3,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1098/136439.jpg",
+            "studios": []
+        },
+        {
+            "title": "SLEEPLESS Nocturne The Animation",
+            "title_eng": "Sleepless Nocturne The Animation",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 25,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1213/136209.jpg",
+            "studios": [
+                "BreakBottle"
+            ]
+        },
+        {
+            "title": "\u3057\u3093\u6b21\u5143! \u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093THE MOVIE \u8d85\u80fd\u529b\u5927\u6c7a\u6226 ~\u3068\u3079\u3068\u3079\u624b\u5dfb\u304d\u5bff\u53f8~",
+            "title_eng": "Crayon Shin-chan Movie 31: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 4,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1431/136322.jpg",
+            "studios": [
+                "Shirogumi"
+            ]
+        },
+        {
+            "title": "\u5c0f\u7eff\u548c\u5c0f\u84dd \u7b2c\u4e8c\u5b63",
+            "title_eng": "Xiao Lu He Xiao Lan 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 12,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1356/129999.jpg",
+            "studios": [
+                "Big Firebird Culture"
+            ]
+        },
+        {
+            "title": "\u5e7c\u5973\u793e\u9577 R",
+            "title_eng": "Youjo Shachou R",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1052/136246.jpg",
+            "studios": [
+                "Project No.9"
+            ]
+        },
+        {
+            "title": "1LDK\uff0bJ\u7cfb \u3044\u304d\u306a\u308a\u540c\u5c45\uff1f\u5bc6\u7740\uff01\uff1f\u521d\u30a8\u30c3\u30c1\uff01\uff01\uff1f",
+            "title_eng": "1LDK + JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 7,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1905/135296.jpg",
+            "studios": [
+                "Studio 1st"
+            ]
+        },
+        {
+            "title": "\u5965\u3055\u307e\u306e\u56de\u5fa9\u8853 THE ANIMATION",
+            "title_eng": "Okusama no Kaifuku Jutsu The Animation",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 28,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1262/135580.jpg",
+            "studios": [
+                "Seven"
+            ]
+        },
+        {
+            "title": "\u56db\u683c\u52c7\u8005",
+            "title_eng": "Si Ge Yongzhe",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 17,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1319/136330.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u30c4\u30f3\u30c7\u30ed\u30b7\u30ea\u30fc\u30ba",
+            "title_eng": "Tsundero Series",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1654/136208.jpg",
+            "studios": [
+                "T-Rex"
+            ]
+        },
+        {
+            "title": "\u7a2e\u4ed8\u304a\u3058\u3055\u3093\u3068NTR\u4eba\u59bb\u30bb\u30c3\u30af\u30b9 The Animation",
+            "title_eng": "Tanetsuke Oji-san to NTR Hitozuma Sex The Animation",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 28,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1378/135605.jpg",
+            "studios": [
+                "Studio 1st"
+            ]
+        },
+        {
+            "title": "\u3053\u306e\u604b\u306b\u6c17\u3065\u3044\u3066 THE ANIMATION",
+            "title_eng": "Kono Koi ni Kizuite The Animation",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 25,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1751/136250.jpg",
+            "studios": [
+                "Seven"
+            ]
+        },
+        {
+            "title": "\u98ce\u7075\u7389\u79c0 \u7b2c\u4e8c\u7ae0",
+            "title_eng": "Feng Ling Yu Xiu 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1634/136523.jpg",
+            "studios": [
+                "Sunflowers"
+            ]
+        },
+        {
+            "title": "\u7a2e\u4ed8\u304a\u3058\u3055\u3093\u3068\u30d1\u30d1\u3063\u5b50JD\u50ac\u7720\u751f\u6d3b The Animation",
+            "title_eng": "Tanetsuke Oji-san to Papakko JD Saimin Seikatsu The Animation",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 29,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1252/135609.jpg",
+            "studios": [
+                "Studio 1st"
+            ]
+        },
+        {
+            "title": "\u533a\u533a\u4e0d\u624d\uff0c\u5728\u4e0b\u91ce\u602a \u7b2c\u4e8c\u5b63",
+            "title_eng": "Ququ Bucai, Zaixia Yeguai 2nd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 2,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1091/136665.jpg",
+            "studios": [
+                "Kung Fu Frog Animation"
+            ]
+        },
+        {
+            "title": "\u304f\u30ce\u4e00\u9675\u8fb1\u4f1d \u7d2b\u967d\u82b1",
+            "title_eng": "Kunoichi Ryoujokuden Ajisai",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 28,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1845/135574.jpg",
+            "studios": [
+                "Suzuki Mirano"
+            ]
+        },
+        {
+            "title": "\u3044\u304d\u3082\u306e\u3055\u3093",
+            "title_eng": "Ikimono-san",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": "Saturdays",
+                "time": "01:50"
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1466/136270.jpg",
+            "studios": [
+                "New Deer"
+            ]
+        },
+        {
+            "title": "\u9547\u9b42\u8857 \u7b2c\u4e09\u5b63",
+            "title_eng": "Zhen Hun Jie 3rd Season",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 29,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1080/136724.jpg",
+            "studios": [
+                "L\u00b2Studio"
+            ]
+        },
+        {
+            "title": "\u9b54\u6cd5\u5c11\u5973\u30ce\u30fc\u30d6\u30eb\u30ed\u30fc\u30ba THE ANIMATION",
+            "title_eng": "Mahou Shoujo Noble Rose The Animation",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 14,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1684/136166.jpg",
+            "studios": [
+                "Anime Antenna Iinkai"
+            ]
+        },
+        {
+            "title": "so_low",
+            "title_eng": "So_low",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 28,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1399/136469.jpg",
+            "studios": [
+                "Nur"
+            ]
+        },
+        {
+            "title": "\u6c38\u751f \u4e4b\u5341\u5e74\u4e4b\u7ea6",
+            "title_eng": "Yong Sheng: Shi Nian Zhi Yue",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 8,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1872/136499.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u7b2c\u4e00\u5e8f\u5217",
+            "title_eng": "Di Yi Xulie",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 19,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1699/136592.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u5815\u7384\u5e08",
+            "title_eng": "Duo Xuan Shi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 4,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1090/126770.jpg",
+            "studios": [
+                "Medo"
+            ]
+        },
+        {
+            "title": "\u9752\u6625\u30a2\u30fc\u30ab\u30a4\u30d6",
+            "title_eng": "Seishun Archive",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1983/136831.jpg",
+            "studios": [
+                "Studio Kai"
+            ]
+        },
+        {
+            "title": "\u304a\u3067\u304b\u3051\u5b50\u30b6\u30e1",
+            "title_eng": "Odekake Kozame",
+            "air_time": {
+                "year": 2023,
+                "month": 8,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1464/136707.jpg",
+            "studios": [
+                "ENGI"
+            ]
+        },
+        {
+            "title": "\u795e\u6f9c\u5947\u57df\u65e0\u53cc\u73e0 \u5929\u9b54\u7bc7\u5b9a\u6863",
+            "title_eng": "Shen Lan Qi Yu Wushuang Zhu: Tianmo Pian - Ding Dang",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 15,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1571/136609.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u771f\u9633\u6b66\u795e",
+            "title_eng": "Zhen Yang Wushen",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1769/136525.jpg",
+            "studios": [
+                "Wonder Cat Animation"
+            ]
+        },
+        {
+            "title": "\u5341\u65b9\u5251\u5723",
+            "title_eng": "Shi Fang Jian Sheng",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1936/136828.jpg",
+            "studios": [
+                "Cloud Culture"
+            ]
+        },
+        {
+            "title": "\u9006\u5929\u90aa\u795e",
+            "title_eng": "Ni Tian Xieshen",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1621/136623.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u602a\u517d\u5c0f\u9986",
+            "title_eng": "Guaishou Xiao Guan",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 13,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1779/136605.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u6355\u661f\u53f8\u00b7\u6e90\u8d77",
+            "title_eng": "Bu Xing Si: Yuan Qi",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 27,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1333/136589.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u30ca\u30a4\u30c8\u30c6\u30fc\u30eb",
+            "title_eng": "Night Tail",
+            "air_time": {
+                "year": 2023,
+                "month": 9,
+                "day": 29,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1020/136915.jpg",
+            "studios": [
+                "Majin"
+            ]
+        },
+        {
+            "title": "\u76d6\u4e16\u5e1d\u5c0a",
+            "title_eng": "Gaishi Dizun",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1885/136527.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u98ce\u706b\u6218\u7eaa",
+            "title_eng": "Feng Huo Zhan Ji",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 1,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1460/136627.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u4e5d\u8fb0\u98ce\u4e91\u5f55",
+            "title_eng": "Jiu Chen Fengyun Lu",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 11,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1250/136941.jpg",
+            "studios": []
+        },
+        {
+            "title": "\u306f\u305f\u3089\u304f\u9b54\u738b\u3055\u307e\uff01\uff01",
+            "title_eng": "Hataraku Maou-sama!! Recap",
+            "air_time": {
+                "year": 2023,
+                "month": 7,
+                "day": 6,
+                "weekday": null,
+                "time": null
+            },
+            "image": "https://cdn.myanimelist.net/images/anime/1463/136983.jpg",
+            "studios": []
+        }
+    ],
+    "lastupdate": {
+        "year": 2023,
+        "month": 7,
+        "day": 10
+    }
+}
